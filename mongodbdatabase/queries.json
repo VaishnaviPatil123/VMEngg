@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "630f8e99a112191260c66480"
+  },
+  "email": "lakhu27@gamil.com",
+  "phone": "992131564",
+  "msg": "my first msg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632165b4dae568d94e028af5"
+  },
+  "email": "lakhu27@gamil.com",
+  "phone": "8787878787",
+  "msg": "hi",
+  "__v": 0
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6309d7a063eef1e4a3d438c4"
+  },
+  "title": "From up to down it’s made up of the best quality.",
+  "imageurl": "/static/images/z1.jpg",
+  "__v": 0,
+  "class": "active"
+},{
+  "_id": {
+    "$oid": "6309d7a063eef1e4a3d438c5"
+  },
+  "title": "We are pro in our passion so you can just leave it on us.",
+  "imageurl": "/static/images/z2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6309d7a063eef1e4a3d438c3"
+  },
+  "title": "To strengthen the infrastructure fabric by aligning our passion,resources,and capabilities with customer growth.",
+  "imageurl": "/static/images/z5.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6309e32d4f797b4d254e203c"
+  },
+  "title": "we provide best quality",
+  "imageurl": "/static/images/z7.jpg",
+  "__v": 0
+}]

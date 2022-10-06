@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6308a93244a312da3dd733f9"
+  },
+  "brandName": "VM- ENGINEERING PROJECTS ",
+  "brandIconurl": "/static/images/logo.jpg",
+  "links": [
+    {
+      "label": "Home",
+      "url": "/",
+      "_id": {
+        "$oid": "6308a93244a312da3dd733fa"
+      }
+    },
+    {
+      "label": "Services",
+      "url": "/services",
+      "_id": {
+        "$oid": "6308a93244a312da3dd733fb"
+      }
+    },
+    {
+      "label": "Projects",
+      "url": "/projects",
+      "_id": {
+        "$oid": "6308a93244a312da3dd733fc"
+      }
+    },
+    {
+      "label": "About",
+      "url": "/about",
+      "_id": {
+        "$oid": "6308a93244a312da3dd733fd"
+      }
+    },
+    {
+      "label": "Contact",
+      "url": "/contact",
+      "_id": {
+        "$oid": "6308a93244a312da3dd733fe"
+      }
+    }
+  ],
+  "__v": 0
+}]

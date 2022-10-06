@@ -1,0 +1,57 @@
+ 
+    
+    <div class="sticky-top">
+     
+      <nav class="navbar border-bottom navbar-expand-lg py-3 navbar-light ">
+        
+        <div class="container">
+          <img src="{{data.brandIconurl}}" class="logo" alt="" >
+         <a class="t1"><span>{{data.brandName}}</span></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ms-auto" id="nav">
+
+             {{#each data.links}}
+
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="{{this.url}}"><span>{{this.label}}</span></a>
+              </li>
+              {{/each}}
+               {{!-- <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/"><span>Home</span></a>
+              </li>
+               <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <span>Services</span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item" href="java.html">Java Development</a></li>
+                  <li><a class="dropdown-item" href="python.html">Python Development</a></li>
+                  <li><a class="dropdown-item" href="web.html">Web Development</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/projects"><span> Projects</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/about"><span>About</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contact"><span>Contact</span></a>
+              </li>
+              <div class="contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+91-7020810586</span><br>
+                <span>+91-8888798857</span></div> --}}
+              <li class="contact-phone">
+                <a> <span>+91-7020810586</span><br>
+                <span>+91-8888798857</span></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        
+      </nav>
+    </div>
+  </div>
+      

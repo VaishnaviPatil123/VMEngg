@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6310b35aafdc3ba009e63bc5"
+  },
+  "img": "/static/images/manoj.jpg",
+  "title": "Manoj Patil",
+  "description": "Provide design for steel-structure,fabrication.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6310b35aafdc3ba009e63bc6"
+  },
+  "img": "/static/images/manoj.jpg",
+  "title": "Vinayak Sutar",
+  "description": "Provide design for steel-structure,fabrication.",
+  "__v": 0
+}]

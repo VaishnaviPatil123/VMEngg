@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6320a783fb628cde419c155f"
+  },
+  "icon": "fa-solid fa-location-dot",
+  "title": "Address",
+  "description": "Provide design for steel-structure,fabricaSr No 10,PL 72,Tuljai Chatrachaya,Near Desai Vakhar,Bypass Road Kharadi,Pune-411014.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6320a783fb628cde419c1561"
+  },
+  "icon": "fa-solid fa-envelope",
+  "title": "Email",
+  "description": "vmengineeringprojects@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6320a783fb628cde419c1560"
+  },
+  "icon": "fa-sharp fa-solid fa-phone",
+  "title": "Phone",
+  "description": "+7020810586",
+  "__v": 0
+}]

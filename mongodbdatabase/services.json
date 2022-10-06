@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "630a816502300c1282b43088"
+  },
+  "icon": "fa-solid fa-sack-dollar",
+  "title": "Estimation",
+  "description": "Provide design for steel-structure,fabrication.",
+  "linkText": "check",
+  "link": "/services",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630a816502300c1282b43089"
+  },
+  "icon": "fa-solid fa-file",
+  "title": "Sanctioning",
+  "description": "Provide design for steel-structure,fabrication.",
+  "linkText": "check",
+  "link": "/services",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630a816502300c1282b4308a"
+  },
+  "icon": "fa-solid fa-warehouse",
+  "title": "Structural-Fabrication",
+  "description": "Provide design for steel-structure,fabrication.",
+  "linkText": "check",
+  "link": "/services",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630a816502300c1282b43087"
+  },
+  "icon": "fa-brands fa-accusoft",
+  "title": "Designing",
+  "description": "Provide design for steel-structure,fabrication.",
+  "linkText": "check",
+  "link": "/services",
+  "__v": 0
+}]

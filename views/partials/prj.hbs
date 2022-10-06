@@ -1,0 +1,16 @@
+<section class=" gallery py-4">
+  <div class="container">
+    
+     <h1 class=" text-success">{{data4.name}}</h1> 
+    <div class="row">
+    {{#each data4.links}}
+      <div class="col-lg-4">
+          <div class="galbox mt-3 mb-3">
+        <img src="{{this.url}}" >
+        <h4 >{{this.title}}</h4>
+        </div>
+      </div>
+      {{/each}}
+    </div>
+  </div>
+</section>
